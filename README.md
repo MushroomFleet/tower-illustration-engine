@@ -2,6 +2,8 @@
 
 A comprehensive toolkit for generating consistent, structured prompts for AI image generation of characters from the TOWER story. This system enables the creation of high-quality character illustrations with consistent styling across various environments and scenes.
 
+It makes captions before you build a dataset ;) in this way we can create coherent and consistent illustrations for pre-existing narratives by extracting details from the story and using this information to plan out a pristine dataset structure promoting ideal alignment. This is permitted by HiL (Human in Loop) design, where a human curator is involved in this process using external tools. The resulting captions are used both as prompts and as training captions to build out the initial concept art dataset.
+
 ## What This Is
 
 This project provides a complete pipeline for transforming detailed character descriptions into standardized prompts for AI image generation systems. It includes:
@@ -49,7 +51,7 @@ The system is designed for commissioning character key art with a consistent sty
 
 1. Clone or download this repository:
    ```
-   git clone https://github.com/your-username/tower-illustration.git
+   git clone https://github.com/MushroomFleet/tower-illustration-engine
    cd tower-illustration
    ```
 
