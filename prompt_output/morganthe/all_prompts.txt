@@ -1,0 +1,18 @@
+# Morganthe Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, M0RG, human woman with dark brown skin and wild black hair containing actual wildflowers, undyed linen robes embroidered with medicinal herbs and specialized pockets, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, M0RG, human woman with dark brown skin and wild black hair containing actual wildflowers, undyed linen robes embroidered with medicinal herbs and specialized pockets, neutralizing animated armor with an experimental alchemical compound, inside a sorcerer's tower chamber with animated armor pieces dissolving into rust.
+
+## countryside_setting
+depiction of T0W3R style, M0RG, human woman with dark brown skin and wild black hair containing actual wildflowers, undyed linen robes embroidered with medicinal herbs and specialized pockets, kneeling to gather healing herbs while conversing with plants, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, M0RG, human woman with dark brown skin and wild black hair containing actual wildflowers, undyed linen robes embroidered with medicinal herbs and specialized pockets, offering medicinal cookies with a mischievous smile, in a dimly lit tavern with wooden tables and curious patrons in background.
+
+## spotlight_scene
+depiction of T0W3R style, M0RG, human woman with dark brown skin and wild black hair containing actual wildflowers, undyed linen robes embroidered with medicinal herbs and specialized pockets, successfully deploying experimental compound #37-B against a regiment of animated armor, surrounded by rapidly oxidizing metal as she watches with scientific fascination.
+

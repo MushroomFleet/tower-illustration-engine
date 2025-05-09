@@ -1,0 +1,18 @@
+# Whisper Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, WH1S, tiefling with lavender skin, elegant glowing horns, and solid black eyes reflecting starlight, mismatched elegant clothes from various cultures with prism pendant and silver chain, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, WH1S, tiefling with lavender skin, elegant glowing horns, and solid black eyes reflecting starlight, mismatched elegant clothes from various cultures with prism pendant and silver chain, whispering cryptic messages to shadows in corners, inside a sorcerer's tower room where reality bends and distorts around them.
+
+## countryside_setting
+depiction of T0W3R style, WH1S, tiefling with lavender skin, elegant glowing horns, and solid black eyes reflecting starlight, mismatched elegant clothes from various cultures with prism pendant and silver chain, gazing up at stars with a knowing expression while stars seem to twinkle in response, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, WH1S, tiefling with lavender skin, elegant glowing horns, and solid black eyes reflecting starlight, mismatched elegant clothes from various cultures with prism pendant and silver chain, charming a group of patrons with an enigmatic story and graceful hand gestures, in a dimly lit tavern with wooden tables and entranced patrons in background.
+
+## spotlight_scene
+depiction of T0W3R style, WH1S, tiefling with lavender skin, elegant glowing horns, and solid black eyes reflecting starlight, mismatched elegant clothes from various cultures with prism pendant and silver chain, standing completely unaffected in a swirling vortex of dimensional distortion as Sir Puffington III's reality-bending powers wash harmlessly around them.
+

@@ -1,0 +1,11 @@
+we can create detailed visual descriptions for each character in the TOWER story
+each character will be descrubed in a single document.
+
+we can pre-plan using Q&A format, using my answers to refine the plan
+we can think hard when using the answers to write up the initial "plan.md"
+we can use the plan.md to iterate trhough each character listed in @/tower/characters.txt
+regarding the setting we can draw from @/tower/TOWER-lorebook.md
+we can use this information to describe each character in detailed
+
+we are building up descriptions for use in commissioning character key art
+We can pick scenes from @/tower/story-supplement-001.md & @/tower/story-supplement-002.md and @/tower/world.txt for more general information

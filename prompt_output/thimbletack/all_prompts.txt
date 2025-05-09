@@ -1,0 +1,18 @@
+# Thimbletack Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, TH1M, halfling with a perpetual five o'clock shadow and tired eyes that miss nothing, dark leather armor with countless hidden pockets and shadow-blending cloak, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, TH1M, halfling with a perpetual five o'clock shadow and tired eyes that miss nothing, dark leather armor with countless hidden pockets and shadow-blending cloak, carefully picking a complex lock with intense concentration, inside a sorcerer's tower maintenance tunnel with pipes and magical conduits.
+
+## countryside_setting
+depiction of T0W3R style, TH1M, halfling with a perpetual five o'clock shadow and tired eyes that miss nothing, dark leather armor with countless hidden pockets and shadow-blending cloak, scanning the horizon with a wary expression while partially concealed, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, TH1M, halfling with a perpetual five o'clock shadow and tired eyes that miss nothing, dark leather armor with countless hidden pockets and shadow-blending cloak, sitting in a shadowy corner keeping watch on all entrances, in a dimly lit tavern with wooden tables and patrons in background.
+
+## spotlight_scene
+depiction of T0W3R style, TH1M, halfling with a perpetual five o'clock shadow and tired eyes that miss nothing, dark leather armor with countless hidden pockets and shadow-blending cloak, single-handedly infiltrating the United Sorcerers' Tower through a maintenance shaft, with tactical distraction devices ready in hand.
+

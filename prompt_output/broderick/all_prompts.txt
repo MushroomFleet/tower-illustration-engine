@@ -1,0 +1,18 @@
+# Broderick Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, BR0D, barrel-chested human with a perpetually sunburned face, wild auburn hair, and a glitter-speckled beard, practical plate armor modified with numerous pouches and hooks, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, BR0D, barrel-chested human with a perpetually sunburned face, wild auburn hair, and a glitter-speckled beard, practical plate armor modified with numerous pouches and hooks, performing his elaborate pre-battle stretching routine, inside a sorcerer's tower corridor with animated armor pieces scattered around.
+
+## countryside_setting
+depiction of T0W3R style, BR0D, barrel-chested human with a perpetually sunburned face, wild auburn hair, and a glitter-speckled beard, practical plate armor modified with numerous pouches and hooks, striding purposefully forward with hand on weapon, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, BR0D, barrel-chested human with a perpetually sunburned face, wild auburn hair, and a glitter-speckled beard, practical plate armor modified with numerous pouches and hooks, seated at a wooden table examining a small mechanical puzzle, in a dimly lit tavern with wooden tables and patrons in background.
+
+## spotlight_scene
+depiction of T0W3R style, BR0D, barrel-chested human with a perpetually sunburned face, wild auburn hair, and a glitter-speckled beard, practical plate armor modified with numerous pouches and hooks, transformed into a mobile disco ball with glittering reflective surface covering his entire body, delivering a decisive blow against Lady Prismatica with Skullcrusher raised high.
+

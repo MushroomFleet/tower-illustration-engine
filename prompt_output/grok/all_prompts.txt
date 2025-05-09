@@ -1,0 +1,18 @@
+# Grok Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, GR0K, orc with intelligent eyes and jade-green skin adorned with mathematical formula tattoos, practical light armor with scholarly elements and calculation tools, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, GR0K, orc with intelligent eyes and jade-green skin adorned with mathematical formula tattoos, practical light armor with scholarly elements and calculation tools, analyzing architectural stress points with intense concentration, inside a sorcerer's tower examining structural support columns with measuring tools.
+
+## countryside_setting
+depiction of T0W3R style, GR0K, orc with intelligent eyes and jade-green skin adorned with mathematical formula tattoos, practical light armor with scholarly elements and calculation tools, calculating trajectories with muttered formulas, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, GR0K, orc with intelligent eyes and jade-green skin adorned with mathematical formula tattoos, practical light armor with scholarly elements and calculation tools, meticulously organizing items by size and color, in a dimly lit tavern with wooden tables and patrons giving him wary glances.
+
+## spotlight_scene
+depiction of T0W3R style, GR0K, orc with intelligent eyes and jade-green skin adorned with mathematical formula tattoos, practical light armor with scholarly elements and calculation tools, precisely calculating the 27.3% success probability of their mission, surrounded by floating mathematical equations and probability charts glowing with faint magical energy.
+

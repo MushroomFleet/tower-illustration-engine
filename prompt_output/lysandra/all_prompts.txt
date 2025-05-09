@@ -1,0 +1,18 @@
+# Lysandra Prompts
+Generated: 2025-05-09 00:36:08
+
+## plain_background
+depiction of T0W3R style, LYS4, slender pale-skinned elf with silver hair that moves according to magical currents rather than wind, practical robes with an impractical number of enchanted accessories, standing neutrally, plain white background with shadow, lit from above.
+
+## tower_setting
+depiction of T0W3R style, LYS4, slender pale-skinned elf with silver hair that moves according to magical currents rather than wind, practical robes with an impractical number of enchanted accessories, intensely taking notes while surrounded by swirling temporal energy, inside a sorcerer's tower library with chronometric devices and floating books.
+
+## countryside_setting
+depiction of T0W3R style, LYS4, slender pale-skinned elf with silver hair that moves according to magical currents rather than wind, practical robes with an impractical number of enchanted accessories, examining an unusual plant specimen with academic intensity, in the countryside of Spellwick with towers visible in background.
+
+## tavern_setting
+depiction of T0W3R style, LYS4, slender pale-skinned elf with silver hair that moves according to magical currents rather than wind, practical robes with an impractical number of enchanted accessories, explaining a complex magical theory with animated hand gestures, in a dimly lit tavern with wooden tables and bewildered patrons in background.
+
+## spotlight_scene
+depiction of T0W3R style, LYS4, slender pale-skinned elf with silver hair that moves according to magical currents rather than wind, practical robes with an impractical number of enchanted accessories, countering Pendleton Chronos by harvesting chronometric energy from regulatory timepieces, her eyes glowing intense blue as temporal magic swirls around her hands.
+

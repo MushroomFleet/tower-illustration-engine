@@ -1,0 +1,27 @@
+{
+  "character_files": {
+    "broderick": "characters/broderick.md",
+    "lysandra": "characters/lysandra.md",
+    "thimbletack": "characters/thimbletack.md",
+    "morganthe": "characters/morganthe.md",
+    "grok": "characters/grok.md",
+    "whisper": "characters/whisper.md"
+  },
+  "character_triggers": {
+    "broderick": "BR0D",
+    "lysandra": "LYS4",
+    "thimbletack": "TH1M",
+    "morganthe": "M0RG",
+    "grok": "GR0K",
+    "whisper": "WH1S"
+  },
+  "scene_types": [
+    "plain_background",
+    "tower_setting",
+    "countryside_setting",
+    "tavern_setting",
+    "spotlight_scene"
+  ],
+  "output_directory": "prompt_output",
+  "template": "depiction of T0W3R style, {trigger}, {character_description}, {outfit_description}, {scene_description}"
+}
